@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerApp</string>
+    <string name="welcome">Welcome to the Planetarium!</string>
+    <string name="next_activity">Go to Planet List</string>
+</resources>
